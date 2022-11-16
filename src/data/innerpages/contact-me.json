@@ -1,0 +1,70 @@
+{
+    "name": "contact-me",
+    "content": [
+        {
+            "section": "contact-info",
+            "section_title": {
+                "title": "Reach me!",
+                "subtitle": "Get excited already?"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Address",
+                    "icon": "fal fa-map-marker-alt",
+                    "texts": [
+                        {
+                            "id": 1,
+                            "content": "147/1 M.5 T. Faham, A. Muang Chiang Mai 50000"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Contact",
+                    "icon": "fal fa-phone",
+                    "texts": [
+                        {
+                            "id": 1,
+                            "content": "Mobile: <a href='tel:+82(0)1066104505'><strong>+82 (0)10 6610 4505</strong></a>"
+                        },
+                        {
+                            "id": 2,
+                            "content": "Hotline: <strong>+82 (0)10 6610 4505</strong>"
+                        },
+                        {
+                            "id": 3,
+                            "content": "Mail: <a href='mailto:justin.chachoe@gmail.com'>justin.chachoe@gmail.com</a>"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Hour of operation",
+                    "icon": "fal fa-clock",
+                    "texts": [
+                        {
+                            "id": 1,
+                            "content": "Monday – Friday : 09:00 – 20:00"
+                        },
+                        {
+                            "id": 2,
+                            "content": "Sunday & Saturday: 10:30 – 22:00"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/contact/contact.jpg"
+                }
+            ]
+        },
+        {
+            "section": "contact-form",
+            "section_title": {
+                "title": "Or just drop me a line"
+            }
+        }
+    ]
+}
